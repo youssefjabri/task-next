@@ -21,8 +21,8 @@ async function page() {
                     </Link>
                 </CardContent>
                 <CardContent>
-                    <Link href="/admin/citation/Citation-Page" className={buttonVariants({ variant: "outline", size: "lg" })}>
-                        Citation Page
+                    <Link href="/admin/citation/new" className={buttonVariants({ variant: "outline", size: "lg" })}>
+                        Create Citation
                     </Link>
                 </CardContent>
             </Card>

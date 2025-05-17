@@ -10,7 +10,6 @@ function page(props: {
 }) {
     return (
         <Card>
-
             <CardContent>
                 {props.params.citationId}
             </CardContent>
